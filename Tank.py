@@ -14,9 +14,9 @@ class Tank:
         elif color == 'yellow':
             self.color = (0,255,255)
         elif color == 'pink':
-            self.color = (255,75,75)
+            self.color = (255,150,150)
         elif self.color == 'orange':
-            self.color = (200,100,100) 
+            self.color = (255,160,60) 
         elif color == 'black':
             self.color = (0,0,0)
         elif self.color == 'white':
